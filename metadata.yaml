@@ -1,4 +1,8 @@
 _repo: Ancient-Monuments-of-the-Mississippi-Valley-Smithsonian-Contributions-to-Knowledge-Vol-I_49668
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49668-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Davis, E. H.
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45477'
     url: http://www.gutenberg.org/2009/agents/45477
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49668#Ancient-Monuments-of-the-Mississippi-Valley-Smithsonian-Contributions-to-Knowledge-Vol-I
 gutenberg_issued: '2015-08-10'
 gutenberg_type: Text
 identifiers:
